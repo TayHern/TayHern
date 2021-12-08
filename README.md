@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TAY-HERN
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @TayHern
+- 👀 I’m interested in learning more about the development world and to strengthen my skills as a voding prospect
 - 🌱 I’m currently learning full stack development with UCLA extension coding bootcamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
