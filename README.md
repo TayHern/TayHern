@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-<img width="33%" src ="https://github.com/TayHern/TayHern/assets/95730939/a38d94ab-92ce-42db-9af3-5095e46423d1">
+<img src=(https://github.com/TayHern/TayHern/assets/95730939/3e8a066c-1bc6-4bb2-8ad3-f91d3b3e4ed3)>
 </div>
 <h2>
     Hey there!
