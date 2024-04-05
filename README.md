@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-<img src=(https://github.com/TayHern/TayHern/assets/95730939/3e8a066c-1bc6-4bb2-8ad3-f91d3b3e4ed3)>
+<img src="https://github.com/TayHern/TayHern/assets/95730939/3e8a066c-1bc6-4bb2-8ad3-f91d3b3e4ed3">
 </div>
 <h2>
     Hey there!
@@ -10,7 +10,7 @@
 I am a Full Stack Developer from California 🌇
 - 👩‍🎓 I'm currently studying Computer Science 💻 at SNHU
 - 🌱 I’m currently learning C++ and strengthening my skills in Fullstack Development
-- 💞️ I’m looking to collaborate on any project or any creative endevors.
+- 💞️ I’m looking to collaborate on any project or any creative endeavors.
 - 📫 How to reach me:
     [![Linkedin Badge](https://img.shields.io/badge/-Taylor_Hernandez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-hernandez-4b1963228/)
 
