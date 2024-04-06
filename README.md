@@ -38,6 +38,10 @@ I am a Full Stack Developer from California 🌇
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayHern&theme=vue-dark&show_icons=true)
 
+### ✍️ Blog :
+Follow my blog as I challenge myself to 
+    [100 days of code 🖥️](https://taylorintech.hashnode.dev/hello-is-this-thing-on)
+
 <!---
 TAY-HERN/TAY-HERN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
